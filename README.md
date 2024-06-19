@@ -1,3 +1,3 @@
 # FPL_Predictor
 
-Hey, this is a repo for Applied Machine Learning project!
+Hey, this is a repo for Fantasy Premiere League .
